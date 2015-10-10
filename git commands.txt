@@ -1,2 +1,10 @@
 git init
 git clone https://github.com/mazi82x/tab
+git add *.txt
+git commit -m 'initial projects'
+git status
+git push origin master
+touch //create file
+
+git remote -v
+git log
