@@ -3,7 +3,11 @@ git clone https://github.com/mazi82x/tab
 git add *.txt
 git commit -m 'initial projects'
 git status
-git push origin master
+git remote add origin https://github.com/mazi82x/test1.git
+git push -u origin master
+
+
+
 touch //create file
 
 git remote -v
